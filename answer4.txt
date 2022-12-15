@@ -1,0 +1,5 @@
+Question 1:
+If the passing object is not an instance of Media, program will display "Runtime error" when it runs.
+question 2: 
+Implement the Comparable interface in class Media
+
